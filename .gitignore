@@ -1,0 +1,6 @@
+.vs/*
+Debug/*
+deep_learning/Debug/*
+deep_learning/x64/*
+deep_learning.VC.db
+x64/*
